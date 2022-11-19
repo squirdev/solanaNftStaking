@@ -356,11 +356,11 @@ __metadata:
   linkType: hard
 
 "@solana/spl-token-registry@npm:^0.2.499":
-  version: 0.2.526
-  resolution: "@solana/spl-token-registry@npm:0.2.526"
+  version: 0.2.4574
+  resolution: "@solana/spl-token-registry@npm:0.2.4574"
   dependencies:
     cross-fetch: 3.0.6
-  checksum: 6c97757d37498b9de2ac8f2823435418c3a914bb2f23c3c5c36d97e93d738ad9bfb759bd9eb3f84a380393092d7e0f4fa007b7a55afe126f068953ad18bf4ab4
+  checksum: a56d855dcfe719a222436f74a144617ebf5dd8711bf366ff935148bb760ae2712a8249e1d14d3193dcad336186dbab5d100382c0a30eb69f5feb46aa1c11fc38
   languageName: node
   linkType: hard
 
